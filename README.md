@@ -1,10 +1,13 @@
 ### Hi there 👋
-Hello!!.. I am **Aadesh Varude**, a graduate studet of  Masters of Science in Robotics engineering at **[Worcestor Polytechnic Institute (WPI)](https://www.wpi.edu/)**, Massachusetts, USA. I have a Bachelors in Technology in Elecetronics nad Communication Engineering from **[Visvesvaraya National Institute of Technology](https://vnit.ac.in/), Nagpur, India**. I was a core member and treasurer at IvLabs (The robotics club of VNIT). I wish to work and learn more in the field of **Robotics and AI**
-- 🔭 I’m currently working on learning and advancing my knowledge in Computer Vision via the Classical and Deep Learning approaches.
-- 🌱 I’m currently learning Reinforcement learning to combine with the controls algorithm. 
-- I have recently worked on designing a walking and kicking trajectory on a humanoid robot. My recent work also includes object detection (for a ball and goal) using YOLOV4 and also implemented some classic computer vison appraoaches for horizon detection.
-- 👯 I’m interested on deploying deep learning based computer vision algorithms.
-- My previous work involves a [**Reconfigurable Quadrupedal Bipedal Sanke Robot**](https://github.com/HarshadZade/QuadraSnake) (For video [click here](https://www.youtube.com/watch?v=oUigwOep0qc&t=2s))
+I am **Aadesh Varude**, a dedicated graduate student pursuing a Masters of Science in Robotics Engineering at **[Worcestor Polytechnic Institute (WPI)](https://www.wpi.edu/)**, Massachusetts, USA, maintaining a 4.0 GPA. I earned a Bachelor's in Technology in Electronics and Communication Engineering with a GPA of 8.45/10. from **[Visvesvaraya National Institute of Technology](https://vnit.ac.in/)**, Nagpur, India. 
+
+Currently, I am thrilled to be part of **[Nokia Bell Labs](https://www.bell-labs.com/#gref)** as a **Computer Vision and Deep Learning Summer Intern**, where I am engaged in an exciting project involving 3D point cloud reconstruction. During my tenure at WPI, I have developed a keen interest in deploying classical and deep learning-based Computer Vision techniques for robotics applications. My coursework at WPI has significantly honed my skills in robot controls and motion planning, utilizing both classical and reinforcement learning approaches.
+
+I am proud to have been a core member of IvLabs for three years, working closely with Dr. Shittal Chiddarwar. My experience at IvLabs was enriching, allowing me to contribute to projects such as the Reconfigurable Snake Robot, Hand Gesture Controlled Laptop, and developing perception and path planning algorithms for mobile robots in ROS and Gazebo. Additionally, I had the privilege of being a Robotics Summer Intern at the Institute of Control Systems at TUHH, Hamburg, Germany, under the guidance of Dr. Herbert Werner. During my internship, I worked on developing walking trajectories and a perception stack for a humanoid robot.
+
+I am passionate about Robotics and AI and actively seeking opportunities to further apply my skills and knowledge in these domains. Let's connect and explore how we can collaborate to push the boundaries of Robotics and Computer Vision together!
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AadeshVarude&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
